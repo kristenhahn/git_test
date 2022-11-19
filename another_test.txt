@@ -1,0 +1,6 @@
+Hey there, this is another test!
+hi there
+guten tag.
+
+Why can't I add special characers in the terminal this way?  ! ???
+
